@@ -59,19 +59,19 @@ Here are the original images used for the experiment:
 
 ### Dilation Results
 ![Dilation Results](output/dilation_combined.png)
-![Dilation Results](output/combined/dilation.png)
+![Dilation Combined Results](output/combined/dilation.png)
 
 ### Erosion Results
 ![Erosion Results](output/erosion_combined.png)
-![Erosion Results](output/combined/erosion.png)
+![Erosion Combined Results](output/combined/erosion.png)
 
 ### Opening Results
 ![Opening Results](output/opening_combined.png)
-![Opening Results](output/combined/opening.png)
+![Opening Combined Results](output/combined/opening.png)
 
 ### Closing Results
 ![Closing Results](output/closing_combined.png)
-![Closing Results](output/combined/closing.png)
+![Closing Combined Results](output/combined/closing.png)
 
 ## Conclusion
 
